@@ -1,15 +1,12 @@
 package math
 
 func Square(x int) int {
-	/*
-		INSERT YOUR CODE
-	*/
-	return 0
+	return x * x
 }
 
 func Cube(x int) int {
 	/*
 		INSERT YOUR CODE
 	*/
-	return 0
+	return x * x * (-x)
 }
