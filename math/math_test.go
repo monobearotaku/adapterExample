@@ -6,9 +6,9 @@ import (
 )
 
 func TestCube(t *testing.T) {
-	assert.Equal(t, 27, Cube(3))
+	assert.Equal(t, -27, Cube(-3))
 }
 
 func TestSquare(t *testing.T) {
-	assert.Equal(t, 25, Cube(5))
+	assert.Equal(t, 25, Square(5))
 }

@@ -11,5 +11,5 @@ func Cube(x int) int {
 	/*
 		INSERT YOUR CODE
 	*/
-	return x * x * (-1)
+	return x * x * (x)
 }
