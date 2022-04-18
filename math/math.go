@@ -4,7 +4,7 @@ func Square(x int) int {
 	/*
 		INSERT YOUR CODE
 	*/
-	return x * x * x
+	return x * x
 }
 
 func Cube(x int) int {
